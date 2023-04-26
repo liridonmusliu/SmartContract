@@ -1,12 +1,13 @@
-*Note: This section is archived as kovan is now deprecated. If you're looking to learn more Full-stack, check out the full stack portions of the hardhat/javascript video.*
+*Note: This projects consists of smart contract, which is a decentralized application built on a blockchain platform that executes automated rules and conditions encoded in a computer program. Smart contracts are self-executing programs that operate on a blockchain and can facilitate, verify, and enforce the negotiation and performance of a contract without the need for intermediaries.
 
-*Link to hardhat/javascript video with more full-stack examples: https://github.com/smartcontractkit/full-blockchain-solidity-course-js*
-
-This repo contains all the code associated with the freecodecamp video. 
-
-This repo was modified from the [longer form repo located here](https://github.com/PatrickAlphaC/defi-stake-yield-brownie)
+Hereby the client gave us the permission to make this contract, as a public file, for RESEARCH AND LEARNING PURPOSE ONLY. If you need help to upload and use our code, please feel free to contact me for further assistance. 
 
 
-If you're looking for info on issuing tokens, you can call the function directly from etherscan, or write a python script to call the function.
+Best of luck and keep making your contracts smart ;-)
 
-Good luck :)
+
+
+
+
+
+
